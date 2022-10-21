@@ -176,7 +176,7 @@ ________________________________________________________________________________
 #mobile-header {
   padding: 20px 10% 0 10%;
   height: 150px;
-  background-image: url(".img/header-background-image.svg");
+  background-image: url("../img/header-background-image.svg");
   background-size: cover;
   z-index: 1000;
 }
@@ -184,7 +184,7 @@ ________________________________________________________________________________
 #section-one {
   min-height: 100vh;
   background-size: cover;
-  background-image: url(".img/section-one-background-image.svg");
+  background-image: url("..img/section-one-background-image.svg");
 }
 
 #slogan-text {
@@ -261,7 +261,7 @@ ________________________________________________________________________________
 #section-two {
   min-height: 100vh;
   background-color: #272a31;
-  background-image: url(".img/section-two-background.svg");
+  background-image: url("../img/section-two-background.svg");
   background-repeat: repeat;
 }
 
