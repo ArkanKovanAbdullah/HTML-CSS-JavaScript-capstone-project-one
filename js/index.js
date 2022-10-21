@@ -37,7 +37,7 @@ const speakers = {
     },
     {
       id: 6,
-      image: '/img/speaker_06.png',
+      image: 'img/speaker_06.png',
       name: 'Sebastian Springer',
       status: 'MaibornWolff GmbH',
       work: 'A JavaScript developer at MaibornWolff in Munich and is concerned with the architecture of client-side and server-side JavaScript.',
