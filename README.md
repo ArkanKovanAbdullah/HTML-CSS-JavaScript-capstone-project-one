@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio.
+# Capstone 1.
 
 
 
@@ -35,7 +35,7 @@
 ## Live Demo
 
 
-[Portfolio]( https://osamaashraf6.github.io/portfolio/)
+[Cpastone 1]()
 
 
 ## Getting Started
@@ -51,10 +51,8 @@ To get a local copy up and running follow these simple example steps.
 ## Authors
 
 👤 **Author**
-
-- GitHub: [Osama Ashraf](https://github.com/osamaashraf6)
-- Twitter: [Osama Ashraf](https://twitter.com/OsamaAshraf578?t=l75KjrhQgK4h-vSPfgk1gA&s=08)
-- LinkedIn: [Osama Ashraf](https://www.linkedin.com/in/osama-salem-2a046b203)
+- GitHub: [@Arkankovanabdullah](https://github.com/Arkankovanabdullah)
+- Twitter: [@arkan_kovan](https://twitter.com/Arkan_kovan)
 
 
 
@@ -64,8 +62,7 @@ Contributions, issues, and feature requests are welcome!
 
 
 **Contributer:** 
-- GitHub: [@Arkankovanabdullah](https://github.com/Arkankovanabdullah)
-- Twitter: [@arkan_kovan](https://twitter.com/Arkan_kovan)
+
 
 Feel free to check the [issues page](../../issues/).
 
