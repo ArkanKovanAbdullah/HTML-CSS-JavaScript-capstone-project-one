@@ -1,4 +1,3 @@
-
 const burgurIcon = document.querySelector('.burgur-icon');
 const navMenu = document.querySelector('.nav-menu');
 const body = document.querySelector('body');
