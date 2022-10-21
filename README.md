@@ -32,11 +32,14 @@
 
 
 
-## Live Demo
+## useful Links
 
+### 1. Video
+[Cpastone 1 video](https://www.youtube.com/watch?v=EakpJCLLlXI)
 
-[Cpastone 1]()
+ ### 2. Online version 
 
+[Cpastone 1 online version](https://arkankovanabdullah.github.io/HTML-CSS-JavaScript-capstone-project-one/)
 
 ## Getting Started
 
