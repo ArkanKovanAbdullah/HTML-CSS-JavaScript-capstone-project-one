@@ -325,7 +325,6 @@ ________________________________________________________________________________
   font-weight: 300;
 }
 
-
 #section-three {
   min-height: 40vh;
   background-color: #414246;
@@ -349,7 +348,6 @@ ________________________________________________________________________________
   color: var(--secondary-color);
   text-align: justify;
 }
-
 
 .featured-speakers {
   padding: 40px 0;
@@ -473,54 +471,53 @@ ________________________________________________________________________________
     align-items: center;
   }
 
-
   .featured-speakers {
-      padding: 100px 0;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      gap: 30px;
-      width: 100%;
+    padding: 100px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    width: 100%;
     }
 
     .speaker-header {
-      width: 60%;
+    width: 60%;
     }
 
     .speaker-header h2 {
-      font-size: 2.2rem;
-      font-weight: 600;
-      text-align: center;
+    font-size: 2.2rem;
+    font-weight: 600;
+    text-align: center;
     }
 
     .speakers {
-      width: 80%;
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
-      column-gap: 20px;
-      row-gap: 50px;
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+    column-gap: 20px;
+    row-gap: 50px;
     }
 
     .speakers-data {
-      width: 100%;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 15px;
-      padding: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+    padding: 0;
     }
 
     .speaker-img {
-      width: 30%;
+    width: 30%;
     }
 
     .speaker-img img {
-      width: 100%;
+    width: 100%;
     }
 
     .speaker-details {
-      width: 65%;
-      gap: 18px;
+    width: 65%;
+    gap: 18px;
     }
 }
