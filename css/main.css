@@ -37,6 +37,10 @@ body {
   background-color: var(--transparent);
 }
 
+.display-none {
+  display: none;
+}
+
 .make-flex {
   display: flex;
 }
@@ -125,6 +129,10 @@ body {
   font-size: 2.2rem;
 }
 
+.list-style-none {
+  list-style-type: none;
+}
+
 /* _________________________________________________________________________________________________
 _______________________________________________Section-1____________________________________________
 _________________________________________________________________________________________________ */
@@ -193,9 +201,14 @@ ________________________________________________________________________________
 }
 
 #title-text {
+  
   font-weight: 900;
   font-size: 60px;
   color: var(--primary-color);
+  background-image: url("../img/text-bg.jpg");
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 #title-box {
@@ -254,6 +267,11 @@ ________________________________________________________________________________
   filter: grayscale(100%);
 }
 
+.card-images {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* _________________________________________________________________________________________________
 _______________________________________________Section-2____________________________________________
 _________________________________________________________________________________________________ */
@@ -291,11 +309,13 @@ ________________________________________________________________________________
   font-weight: 600;
   color: var(--primary-color);
   font-size: 1.5em;
+  text-align: center;
 }
 
 .card-last-text {
   font-size: 0.875em;
   color: white;
+  text-align: center;
 }
 
 .section-title {
@@ -319,10 +339,13 @@ ________________________________________________________________________________
 
 #cards-btn {
   margin-bottom: 10px;
-  background-color: var(--primary-color);
   border: none;
   color: white;
+  background-color: transparent;
+  text-decoration: underline;
   font-weight: 300;
+  font-size: 1.125em;
+  cursor: pointer;
 }
 
 #section-three {
@@ -336,16 +359,18 @@ ________________________________________________________________________________
 }
 
 #section-four {
-  background-color: white;
+  background-color: var(--secondary-color);
+  border-bottom: 5px solid var(--primary-color);
 }
 
 #section-four-about {
-  background-color: white;
+  background-color: var(--secondary-color);
+  border-bottom: 5px solid var(--primary-color);
 }
 
 #footer-text {
   width: 50%;
-  color: var(--secondary-color);
+  color: white;
   text-align: justify;
 }
 
@@ -519,5 +544,13 @@ ________________________________________________________________________________
   .speaker-details {
     width: 65%;
     gap: 18px;
+  }
+
+  #logo-index {
+    display: inline-block;
+  }
+
+  #logo-about {
+    display: inline-block;
   }
 }

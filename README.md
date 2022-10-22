@@ -19,16 +19,11 @@
 - Use the js DOM to close the mobile while clicking at the humburger icon
 - Use the javascript objects and arrays to store the data for every project.
 
-
-
-
-
-
-
 ## useful Links
 
 ### 1. Video
-[Cpastone 1 video](https://www.youtube.com/watch?v=EakpJCLLlXI)
+[Cpastone 1 video - 1 PR - 1](https://www.youtube.com/watch?v=EakpJCLLlXI)
+[Cpastone 1 video - 2 PR - 2](https://youtu.be/1UGZ8LneiJo)
 
  ### 2. Online version 
 
@@ -50,7 +45,9 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@Arkankovanabdullah](https://github.com/Arkankovanabdullah)
 - Twitter: [@arkan_kovan](https://twitter.com/Arkan_kovan)
 
+## Aknolowgemends 
 
+Many thanks to Cindy Shin the author of the original design.
 
 ## 🤝 Contributing
 
