@@ -201,12 +201,11 @@ ________________________________________________________________________________
 }
 
 #title-text {
-  
   font-weight: 900;
   font-size: 60px;
   color: var(--primary-color);
   background-image: url("../img/text-bg.jpg");
-  background-clip: text;
+  background-clip: inherit;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
