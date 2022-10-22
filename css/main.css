@@ -307,14 +307,13 @@ ________________________________________________________________________________
 .card-mid-text {
   font-weight: 600;
   color: var(--primary-color);
-  font-size: 1.5em;
+  font-size: 14px;
   text-align: center;
 }
 
 .card-last-text {
-  font-size: 0.875em;
+  font-size: 0.865em;
   color: white;
-  text-align: center;
 }
 
 .section-title {
@@ -358,18 +357,18 @@ ________________________________________________________________________________
 }
 
 #section-four {
-  background-color: var(--secondary-color);
+  background-color: white;
   border-bottom: 5px solid var(--primary-color);
 }
 
 #section-four-about {
-  background-color: var(--secondary-color);
+  background-color: white;
   border-bottom: 5px solid var(--primary-color);
 }
 
 #footer-text {
   width: 50%;
-  color: white;
+  color: black;
   text-align: justify;
 }
 
@@ -437,9 +436,21 @@ ________________________________________________________________________________
   filter: grayscale(100%);
 }
 
+.img-src {
+  filter: contrast(0);
+}
+
+.img-src-about {
+  filter: contrast(0);
+}
+
 @media (min-width: 768px) {
   .burgur-icon {
     display: none;
+  }
+
+  .img-src {
+    filter: contrast(0);
   }
 
   .nav-menu {
@@ -551,5 +562,31 @@ ________________________________________________________________________________
 
   #logo-about {
     display: inline-block;
+  }
+
+  #section-four-about {
+    background-color: var(--secondary-color);
+    border-bottom: 5px solid var(--primary-color);
+  }
+
+  #section-four {
+    background-color: white;
+    border-bottom: 5px solid var(--primary-color);
+  }
+
+  #footer-text-about {
+    width: 50%;
+    color: white;
+    text-align: justify;
+  }
+
+  #footer-text {
+    width: 50%;
+    color: black;
+    text-align: justify;
+  }
+
+  .img-src-about {
+    filter: contrast(1);
   }
 }
